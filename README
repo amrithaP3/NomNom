@@ -1,0 +1,15 @@
+Nom Nom
+
+How the Game Works...
+- The purpose of this game is for the smiley face to eat as many donuts as possible in 30 seconds
+- If the smiley eats/collides with any part of a broccoli, the player loses 
+- If the smiley is able to make it through the 30 seconds without eating a broccoli, they win and get to see their high-score
+
+How to Play:
+- Click enter to start the game from the title screen
+--- there is a sprite flying about near "Press Enter to Start" to invite you to play :)
+- Use the up, down, right, and left arrows to move the smiley face around the game screen
+- Click the backspace at any time to restart the game and bring you back to the title screen
+- There is a timer counting down from 30 seconds so that you can keep track of how much time you have left until the game ends
+
+HAVE FUN! :)
